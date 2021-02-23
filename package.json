@@ -1,0 +1,25 @@
+{
+  "name": "api-practice",
+  "version": "1.0.0",
+  "description": "A REST API tutorial with pokemon data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "test-utils": "mocha spec/utils.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roanlb/api-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roanlb/api-practice/issues"
+  },
+  "homepage": "https://github.com/Roanlb/api-practice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
